@@ -1,0 +1,6 @@
+food = input("What type of food: ")
+plant = input("A type of plant: ")
+methodOfCooking = input("Method of cooking: ")
+description = input("A word to describe burned food: ")
+householdItem =input("name one household item: ")
+print("Evenings menu ", food, "with ", methodOfCooking, plant, "on the plate with", householdItem )
